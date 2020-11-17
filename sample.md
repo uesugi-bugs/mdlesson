@@ -21,10 +21,6 @@ public class Hoge{
 }
 ```
 
->引用
->>引用の引用
->>>引用して、いーんよう
-
 
 hoge
 ___
@@ -47,5 +43,12 @@ hoge
 こんにちわちわ、今日も**元気** に頑張るんば
 
 ![画像](https://joytas.net/php/man.jpg)
+
+![TOOL](https://user-images.githubusercontent.com/73979907/99324903-84adac80-28b8-11eb-906e-caaee001ca67.jpg)
+
+| 左揃え | 中央揃え | 右揃え |
+|:---|:---:|---:|
+|1 |2 |3 |
+|4 |5 |6 |
 
 
